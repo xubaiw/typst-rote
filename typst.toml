@@ -1,0 +1,8 @@
+[package]
+name = "rote"
+version = "0.0.1"
+entrypoint = "rote.typ"
+authors = ["Xubai Wang"]
+license = "MIT"
+description = "Utility for creating rote learning materials"
+repository = "https://github.com/xubaiw/typst-rote"
